@@ -3,3 +3,4 @@
 - Analysed with timing transient command tool, including voltage and capacitance variation
 - Transistors, power source and ground are connected via nodes
 - Observe waveform on ScScope, running simulation on remote server ecs-linux.syr.edu
+- `.sp` are source files for HSPICE simulation
